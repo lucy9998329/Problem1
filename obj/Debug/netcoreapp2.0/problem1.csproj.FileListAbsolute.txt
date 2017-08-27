@@ -1,0 +1,10 @@
+C:\Users\9998329\Desktop\problem1\bin\Debug\netcoreapp2.0\problem1.deps.json
+C:\Users\9998329\Desktop\problem1\bin\Debug\netcoreapp2.0\problem1.runtimeconfig.json
+C:\Users\9998329\Desktop\problem1\bin\Debug\netcoreapp2.0\problem1.runtimeconfig.dev.json
+C:\Users\9998329\Desktop\problem1\bin\Debug\netcoreapp2.0\problem1.dll
+C:\Users\9998329\Desktop\problem1\bin\Debug\netcoreapp2.0\problem1.pdb
+C:\Users\9998329\Desktop\problem1\obj\Debug\netcoreapp2.0\problem1.csproj.CoreCompileInputs.cache
+C:\Users\9998329\Desktop\problem1\obj\Debug\netcoreapp2.0\problem1.AssemblyInfoInputs.cache
+C:\Users\9998329\Desktop\problem1\obj\Debug\netcoreapp2.0\problem1.AssemblyInfo.cs
+C:\Users\9998329\Desktop\problem1\obj\Debug\netcoreapp2.0\problem1.dll
+C:\Users\9998329\Desktop\problem1\obj\Debug\netcoreapp2.0\problem1.pdb
