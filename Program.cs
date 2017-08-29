@@ -53,12 +53,34 @@ namespace problem1
           Console.WriteLine($"Avarage is {number / counter}");*/
 
           var number = 0;
-          Console.WriteLine("Do you want to add a number?");
-          var answer = true;
-          var isNumber = bool.TryParse(Console.ReadLine(), out answer);
+          var checkAnswer = true;
 
-          if (answer == true)
+          do
+          {
+            Console.WriteLine("Do you want to add a number?");
+            var answer = Console.ReadLine();
+            
 
+            if (answer == "yes")
+            {
+              checkAnswer = true;
+            }
+            else {
+
+              checkAnswer = false;
+
+            }
+
+            if (checkAnswer )
+            {
+              Console.WriteLine("Please enter in a number");
+              var userInput = int.TryParse(Console.ReadLine(), out int a);
+              number += a;
+
+            }
+          }while (checkAnswer == true);
+
+          Console.WriteLine($"total number = {number}");
 
 
 
